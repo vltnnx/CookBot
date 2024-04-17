@@ -6,7 +6,8 @@ This is a project created for tracking household energy consumption and its cost
 - Uses FMI API to download latest temperature data to compare with energy consumption
 - [Google Sheets document](https://docs.google.com/spreadsheets/d/1ium8LIi9zPujZi17ntmYBx5nK3m0dsbkBwDgIDAvSHo/edit?usp=sharing) to store and visualise the data in a dashboard
 
-![ElectricityTracker demo GIF]([https://raw.githubusercontent.com/vltnnx/Electricity-Tracker/main/static/img/git-demo.gif](https://github.com/vltnnx/CookBot/blob/adde79c6f50de56b83d75e84b5c765159f90a919/img/cookbot-demo.gif?raw=true)
+![CookBot Demo Video](https://github.com/vltnnx/CookBot/blob/adde79c6f50de56b83d75e84b5c765159f90a919/img/cookbot-demo.gif?raw=true)
+
 
 
 ## Notes for users:
