@@ -5,7 +5,7 @@ An AI powered cooking assistant to generate recipes based on user preferences. G
 
 The aim of this group project was to create an application to raise awareness of the environmental impacts of consumption habits and inspire its users to make more sustainable decisions.
 
-__If you have questions regarding the project, please reach out. Currently unable to share code for this project.__
+*If you have questions regarding the project, please reach out. Currently unable to share code for this project.*
 
 ## Functionalities:
 - Generates recipes based on user request, powered by GPT 3.5-turbo
